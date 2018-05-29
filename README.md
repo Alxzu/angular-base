@@ -30,3 +30,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - [x] Added prettier, tslint is oob, need a better way of prettify scss.
 - [x] To test pwa, `npm install -g http-server`, `ng build --prod`, `cd dist/angular-base`, `http-server -c-1 .`
+- [x] Don't use lodash [see here](https://codeburst.io/why-you-shouldnt-use-lodash-anymore-and-use-pure-javascript-instead-c397df51a66)
