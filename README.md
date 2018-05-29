@@ -28,4 +28,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Notes
 
-- [x] Added prettier, tslint is oob.
+- [x] Added prettier, tslint is oob, need a better way of prettify scss.
+- [x] To test pwa, `npm install -g http-server`, `ng build --prod`, `cd dist/angular-base`, `http-server -c-1 .`
